@@ -1,0 +1,7 @@
+body { font-family: monospace; }
+
+ul { 
+    list-style-type: none; 
+    -webkit-padding-start: 0;    
+    width: 60%;
+}
